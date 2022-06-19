@@ -4,7 +4,6 @@
 | 18.65.39.84     | Netherlands | Hosting | Amazon.com, Inc.               |                                                     |
 | 52.222.141.169  | Netherlands | Hosting | Amazon.com, Inc.               | server-52-222-141-169.ams50.r.cloudfront.net        |
 | 65.9.86.53      | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-86-53.ams1.r.cloudfront.net             |
-| 65.9.86.53      | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-86-53.ams1.r.cloudfront.net             |
 | 52.222.139.100  | Netherlands | Hosting | Amazon.com, Inc.               | server-52-222-139-100.ams50.r.cloudfront.net        |
 | 34.214.138.130  | US          | Hosting | Amazon.com, Inc.               | ec2-34-214-138-130.us-west-2.compute.amazonaws.com  |
 | 108.156.58.92   | Netherlands | Hosting | Amazon.com, Inc.               | server-108-156-58-92.ams1.r.cloudfront.net          |
@@ -28,3 +27,12 @@
 | 108.156.60.91   | Netherlands | Hosting | Amazon.com, Inc.               | server-108-156-60-91.ams1.r.cloudfront.net          |
 | 65.9.86.81      | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-86-81.ams1.r.cloudfront.net             |
 | 65.9.86.42      | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-86-42.ams1.r.cloudfront.net             |
+| 65.9.86.5       | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-86-5.ams1.r.cloudfront.net              |
+| 54.239.28.85    | US          | Hosting | Amazon.com, Inc.               |                                                     |
+| 205.251.242.103 | US          | Hosting | Amazon.com, Inc.               | s3-console-us-standard.console.aws.amazon.com       |
+| 54.192.87.14    | Netherlands | Hosting | Amazon.com, Inc.               | server-54-192-87-14.ams50.r.cloudfront.net          |
+| 52.95.120.64    | Ireland     | Hosting | Amazon.com, Inc.               |                                                     |
+| 54.239.33.93    | Ireland     | Hosting | Amazon.com, Inc.               |                                                     |
+| 65.9.72.222     | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-72-222.ams1.r.cloudfront.net            |
+| 54.240.69.38    | US          | Hosting | Amazon.com, Inc.               | a69-38.smtp-out.amazonses.com                       |
+| 54.240.27.52    | US          | Hosting | Amazon.com, Inc.               | a27-52.smtp-out.us-west-2.amazonses.com             |
