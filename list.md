@@ -36,3 +36,13 @@
 | 65.9.72.222     | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-72-222.ams1.r.cloudfront.net            |
 | 54.240.69.38    | US          | Hosting | Amazon.com, Inc.               | a69-38.smtp-out.amazonses.com                       |
 | 54.240.27.52    | US          | Hosting | Amazon.com, Inc.               | a27-52.smtp-out.us-west-2.amazonses.com             |
+| 34.120.57.62    | US          | Hosting | Google LLC                     | 62.57.120.34.bc.googleusercontent.com               |
+| 35.190.89.55    | US          | Hosting | Google LLC                     | 55.89.190.35.bc.googleusercontent.com               |
+| 34.120.236.96   | US          | Hosting | Google LLC                     | 96.236.120.34.bc.googleusercontent.com              |
+| 34.102.202.115  | US          | Hosting | Google LLC                     | 115.202.102.34.bc.googleusercontent.com             |
+| 142.250.179.206 | Netherlands | Hosting | Google LLC                     | ams15s42-in-f14.1e100.net                           |
+| 130.211.9.172   | US          | Hosting | Google LLC                     | 172.9.211.130.bc.googleusercontent.com              |
+| 216.58.214.14   | Netherlands | Hosting | Google LLC                     | ams17s09-in-f14.1e100.net                           |
+| 172.217.168.238 | Netherlands | Hosting | Google LLC                     | ams15s40-in-f14.1e100.net                           |
+| 142.251.39.110  | Netherlands | Hosting | Google LLC                     | ams15s48-in-f14.1e100.net                           |
+| 216.239.32.27   | Netherlands | Hosting | Google LLC                     | any-in-201b.1e100.net                               |
