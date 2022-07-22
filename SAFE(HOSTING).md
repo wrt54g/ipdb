@@ -21,6 +21,7 @@
 | 52.35.76.150    | US          | Hosting | Amazon.com, Inc.               | ec2-52-35-76-150.us-west-2.compute.amazonaws.com    | SAFE   |
 | 52.34.230.216   | US          | Hosting | Amazon.com, Inc.               | ec2-52-34-230-216.us-west-2.compute.amazonaws.com   | SAFE   |
 | 54.188.51.105   | US          | Hosting | Amazon.com, Inc.               | ec2-54-188-51-105.us-west-2.compute.amazonaws.com   | SAFE   |
+| 54.69.123.142   | US          | Hosting | Amazon.com, Inc.               | 2-54-69-123-142.us-west-2.compute.amazonaws.com     | SAFE   |
 | 65.9.86.105     | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-86-105.ams1.r.cloudfront.net            | SAFE   |
 | 108.157.4.46    | Germany     | Hosting | Amazon.com, Inc.               | server-108-157-4-92.dus51.r.cloudfront.net          | SAFE   |
 | 108.157.4.92    | Germany     | Hosting | Amazon.com, Inc.               | server-108-157-4-92.dus51.r.cloudfront.net          | SAFE   |
