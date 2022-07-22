@@ -1,5 +1,6 @@
 | IP address      | Country     | Type    | Provider                       | Hostname                                            | Rating |
 | ----------------| ----------- |---------|--------------------------------|-----------------------------------------------------|--------|
+| 100.21.184.54   | US          | Hosting | Amazon.com, Inc.               | ec2-100-21-184-54.us-west-2.compute.amazonaws.com   | SAFE   |
 | 143.204.215.37  | Germany     | Hosting | Amazon.com, Inc.               | server-143-204-215-37.fra53.r.cloudfront.net        | SAFE   |
 | 18.65.39.22     | Netherlands | Hosting | Amazon.com, Inc.               | server-18-65-39-22.ams1.r.cloudfront.net            | SAFE   |
 | 18.65.39.24     | Netherlands | Hosting | Amazon.com, Inc.               | server-18-65-39-24.ams1.r.cloudfront.net            | SAFE   |
