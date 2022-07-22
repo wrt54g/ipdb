@@ -5,6 +5,7 @@
 | 108.157.4.63    | Germany     | Hosting | Amazon.com, Inc.               | server-108-157-4-63.dus51.r.cloudfront.net          | SAFE   |
 | 108.157.4.74    | Germany     | Hosting | Amazon.com, Inc.               | server-108-157-4-74.dus51.r.cloudfront.net          | SAFE   |
 | 108.157.4.112   | Germany     | Hosting | Amazon.com, Inc.               | server-108-157-4-112.dus51.r.cloudfront.net         | SAFE   |
+| 108.157.7.84    | Germany     | Hosting | Amazon.com, Inc.               | server-108-138-7-84.fra56.r.cloudfront.net          | SAFE   |
 | 143.204.89.14   | Germany     | Hosting | Amazon.com, Inc.               | server-143-204-89-34.fra50.r.cloudfront.net         | SAFE   |
 | 143.204.89.34   | Germany     | Hosting | Amazon.com, Inc.               | server-143-204-89-14.fra50.r.cloudfront.net         | SAFE   |
 | 143.204.89.56   | Germany     | Hosting | Amazon.com, Inc.               | server-143-204-89-56.fra50.r.cloudfront.net         | SAFE   |
