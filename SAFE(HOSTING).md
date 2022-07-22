@@ -15,6 +15,7 @@
 | 18.65.39.22     | Netherlands | Hosting | Amazon.com, Inc.               | server-18-65-39-22.ams1.r.cloudfront.net            | SAFE   |
 | 18.65.39.24     | Netherlands | Hosting | Amazon.com, Inc.               | server-18-65-39-24.ams1.r.cloudfront.net            | SAFE   |
 | 18.65.39.84     | Netherlands | Hosting | Amazon.com, Inc.               |                                                     | SAFE   |
+| 18.66.248.25    | Germany     | Hosting | Amazon.com, Inc.               | server-18-66-248-25.dus51.r.cloudfront.net          | SAFE   |
 | 18.66.248.53    | Germany     | Hosting | Amazon.com, Inc.               | server-18-66-248-53.dus51.r.cloudfront.net          | SAFE   |
 | 18.66.248.108   | Germany     | Hosting | Amazon.com, Inc.               | server-18-66-248-108.dus51.r.cloudfront.net         | SAFE   |
 | 52.222.141.169  | Netherlands | Hosting | Amazon.com, Inc.               | server-52-222-141-169.ams50.r.cloudfront.net        | SAFE   |
