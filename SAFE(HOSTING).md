@@ -58,3 +58,4 @@
 | 35.241.27.187   | US          | Hosting | Google LLC                     | 187.27.241.35.bc.googleusercontent.com              | SAFE   |
 | 142.250.179.202 | Netherlands | Hosting | Google LLC                     | ams15s42-in-f10.1e100.net                           | SAFE   |
 | 172.217.168.234 | Netherlands | Hosting | Google LLC                     | ams15s40-in-f10.1e100.net                           | SAFE   |
+| 142.250.179.138 | Netherlands | Hosting | Google LLC                     | ams17s10-in-f10.1e100.net                           | SAFE   |
