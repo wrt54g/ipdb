@@ -64,6 +64,7 @@
 | 54.239.28.85    | US          | Hosting | Amazon.com, Inc.               |                                                     | SAFE   |
 | 205.251.242.103 | US          | Hosting | Amazon.com, Inc.               | s3-console-us-standard.console.aws.amazon.com       | SAFE   |
 | 54.192.87.14    | Netherlands | Hosting | Amazon.com, Inc.               | server-54-192-87-14.ams50.r.cloudfront.net          | SAFE   |
+| 99.86.4.22      | US          | Hosting | Amazon.com, Inc.               | server-99-86-4-22.fra6.r.cloudfront.net             | SAFE   |
 | 52.95.120.64    | Ireland     | Hosting | Amazon.com, Inc.               |                                                     | SAFE   |
 | 54.239.33.93    | Ireland     | Hosting | Amazon.com, Inc.               |                                                     | SAFE   |
 | 65.9.72.222     | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-72-222.ams1.r.cloudfront.net            | SAFE   |
