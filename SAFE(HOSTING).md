@@ -53,6 +53,8 @@
 | 52.34.230.216   | US          | Hosting | Amazon.com, Inc.               | ec2-52-34-230-216.us-west-2.compute.amazonaws.com   | SAFE   |
 | 54.188.51.105   | US          | Hosting | Amazon.com, Inc.               | ec2-54-188-51-105.us-west-2.compute.amazonaws.com   | SAFE   |
 | 54.240.27.27    | US          | Hosting | Amazon.com, Inc.               | a27-27.smtp-out.us-west-2.amazonses.com             | SAFE   |
+| 54.240.27.52    | US          | Hosting | Amazon.com, Inc.               | a27-52.smtp-out.us-west-2.amazonses.com             | SAFE   |
+| 54.240.30.126   | US          | Hosting | Amazon.com, Inc.               | a30-126.smtp-out.amazonses.com                      | SAFE   |
 | 54.69.123.142   | US          | Hosting | Amazon.com, Inc.               | 2-54-69-123-142.us-west-2.compute.amazonaws.com     | SAFE   |
 | 65.9.86.105     | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-86-105.ams1.r.cloudfront.net            | SAFE   |
 | 65.9.86.101     | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-86-101.ams1.r.cloudfront.net            | SAFE   |
@@ -64,7 +66,7 @@
 | 54.189.151.21   | US          | Hosting | Amazon.com, Inc.               | ec2-54-189-151-21.us-west-2.compute.amazonaws.com   | SAFE   |
 | 44.229.125.150  | US          | Hosting | Amazon.com, Inc.               | ec2-44-229-125-150.us-west-2.compute.amazonaws.com  | SAFE   |
 | 44.233.83.212   | US          | Hosting | Amazon.com, Inc.               | ec2-44-233-83-212.us-west-2.compute.amazonaws.com   | SAFE   |
-| 65.9.86.16      | Netherlands | Hosting | Amazon.com, Inc.               | erver-65-9-86-16.ams1.r.cloudfront.net              | SAFE   |
+| 65.9.86.16      | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-86-16.ams1.r.cloudfront.net             | SAFE   |
 | 13.248.140.194  | US          | Hosting | Amazon.com, Inc.               | af1daf5df2fdad3a0.awsglobalaccelerator.com          | SAFE   |
 | 65.9.86.16      | Netherlands | Hosting | Amazon.com, Inc.               | server-65-9-86-16.ams1.r.cloudfront.net             | SAFE   |
 | 18.65.39.43     | Netherlands | Hosting | Amazon.com, Inc.               | server-18-65-39-43.ams1.r.cloudfront.net            | SAFE   |
